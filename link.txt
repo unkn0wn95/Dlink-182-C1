@@ -1,0 +1,2 @@
+Website Link to the solution:
+	https://askubuntu.com/questions/1042310/install-driver-rtl8814au-on-ubuntu-18-04
